@@ -1,0 +1,47 @@
+
+body {
+  color: white;
+  text-align: left;
+  font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+  color: black;
+  font-family: 'Oswald', sans-serif;
+  text-align: left;
+}
+
+img{
+  text-align: right;
+}
+
+ h3 {
+  text-align: left;
+  color: black;
+  font-weight: normal;
+  font-size: 20
+}
+
+p{
+  font-size: 14px;
+  color: white;
+  font-weight: normal;
+  line-height: 2;
+
+}
+
+p{
+  text-align: left;
+}
+
+a: link, {
+  color: red;
+}
+
+a:visited{
+  color: lightblue;
+}
+a:hover {
+  color: blue;
+  text-decoration: underline;
+}
